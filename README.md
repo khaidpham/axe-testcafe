@@ -1,6 +1,8 @@
 # axe-testcafe
 The TestCafe module that allows you to use the [aXe](https://github.com/dequelabs/axe-core) accessibility engine in TestCafe tests.
 
+This project was forked from [axe-testcafe](https://github.com/helen-dikareva/axe-testcafe) which has been dormant for quite some time.
+
 ## Installation
 
 ```bash
